@@ -32,6 +32,7 @@
 `cd etc/ssh`</br>
 `nano sshd_config`</br>
 <h2>config :</h2>
+
 ![image info](./images/3.png)
 
 ![image info](./images/4.png)
