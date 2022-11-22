@@ -32,9 +32,13 @@
 `cd etc/ssh`</br>
 `nano sshd_config`</br>
 <h2>config :</h2>
+![image info](./images/3.png)
 
-![image info](./images/7.png)
+![image info](./images/4.png)
 
+![image info](./images/5.png)
+
+![image info](./images/6.png)
 
 
 # Task 05
@@ -50,14 +54,7 @@
 
 <h2>config :</h2>
 
-
-![image info](./images/3.png)
-
-![image info](./images/4.png)
-
-![image info](./images/5.png)
-
-![image info](./images/6.png)
+![image info](./images/7.png)
 
 
 # Task 07
