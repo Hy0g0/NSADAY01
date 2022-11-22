@@ -33,7 +33,7 @@
 `nano sshd_config`</br>
 <h2>config :</h2>
 
-![image info](./images/3.png)
+![image info](./images/7.png)
 
 
 
@@ -51,6 +51,7 @@
 <h2>config :</h2>
 
 
+![image info](./images/3.png)
 
 ![image info](./images/4.png)
 
@@ -58,7 +59,6 @@
 
 ![image info](./images/6.png)
 
-![image info](./images/7.png)
 
 # Task 07
 
@@ -66,7 +66,9 @@
 `nano /etc/iptables/rules.v4`</br>
 
 écrire à l'intérieur ce qu'il y a dans le screen puis donner les droits : </br>
+
 ![image info](./images/7.png)
+
 `chmod +x /etc/iptables/rules.v4`</br>
 `nano /etc/rc.local`</br>
 
